@@ -352,7 +352,7 @@ SELECT
 SELECT * FROM over_view;
 
 ```
-** Find Employees with the Most Book Issues Processed**  
+**Find Employees with the Most Book Issues Processed**  
 Query to find the top 3 employees who have processed the most book issues. Display the employee name, number of books processed, and their branch.
 
 ```sql
